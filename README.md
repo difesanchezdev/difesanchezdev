@@ -8,7 +8,8 @@
 
 :book:**Actualmente estoy aprendiendo sobre inteligencia artificial** 
 
-:skate: **Aposionado por el deporte**
+:running: **Aposionado por el deporte**
+
 :family: **¡Papá consentidor y enamorado**
 
 ### Vías de Contacto
