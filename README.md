@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+:robot: **Ingeniero de desarrollo de productos software y hardware**
+:hot beverage: **Coffee Lover, participando en diferentes proyectos AgroTech de desarrollo de software al rededor del café**
+:satélite: **Apacionado por la Ciencia la Tecnología y la innovación**
+:open book:**Actualmente estoy aprendiendo sobre inteligencia artificial** 
+:roller skate: **Aposionado por el deporte**
+:family: **¡Papá consentidor y enamorado**
+
+### Vías de Contacto
+
+
 <!--
 **difesanchezdev/difesanchezdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
