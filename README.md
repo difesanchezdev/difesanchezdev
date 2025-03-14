@@ -14,7 +14,9 @@
 
 ### Algunas interacciones
 
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/difesanchezdev/difesanchezdev)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/difesanchezdev/difesanchezdev) 
+
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/difesanchezdev/miPrimerRepo)
 
 <!--
 **difesanchezdev/difesanchezdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
