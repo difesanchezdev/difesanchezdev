@@ -12,7 +12,10 @@
 
 :family: **¡Papá consentidor y enamorado**
 
-### Vías de Contacto
+### Algunas interacciones
+
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/difesanchezdev/difesanchezdev)
+
 <!--
 **difesanchezdev/difesanchezdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
