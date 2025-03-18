@@ -22,10 +22,6 @@
 <!--RECENT_ACTIVITY:start-->
 <!--RECENT_ACTIVITY:last_update-->
 
-<!--RECENT_ACTIVITY:last_update-->
-:up:Last Update: Tuesday, March 18th, 2025, 15:25   
-<!--RECENT_ACTIVITY:last_update-end-->
-
 <!--
 **difesanchezdev/difesanchezdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
