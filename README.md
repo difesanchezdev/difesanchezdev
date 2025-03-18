@@ -18,6 +18,17 @@
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/difesanchezdev/miPrimerRepo)
 
+###:zap: Actividad reciente
+<!--START_SECTION:activity -->
+
+<!--END_SECTION:activity -->
+
+<!--RECENT_ACTIVITY:last_update-->
+:up:Last Update: Tuesday, March 18th, 2025, 15:25   
+<!--RECENT_ACTIVITY:last_update-end-->
+
+
+
 <!--
 **difesanchezdev/difesanchezdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
