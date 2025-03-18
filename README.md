@@ -20,11 +20,6 @@
 
 ### :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-  '⬆️ Pushed 1 commit(s) to [difesanchezdev/miPrimerRepo](https://github.com/difesanchezdev/miPrimerRepo)',<br>
-  '⬆️ Pushed 1 commit(s) to [difesanchezdev/miPrimerRepo](https://github.com/difesanchezdev/miPrimerRepo)',<br>
-  '⬆️ Pushed 1 commit(s) to [difesanchezdev/miPrimerRepo](https://github.com/difesanchezdev/miPrimerRepo)',<br>
-  '⬆️ Pushed 1 commit(s) to [difesanchezdev/difesanchezdev.github.io(https://github.com/difesanchezdev/difesanchezdev.github.io)',<br>
-  '📔 Created new repository [difesanchezdev/difesanchezdev.github.io(https://github.com/difesanchezdev/difesanchezdev.github.io)'<br>
 <!--RECENT_ACTIVITY:last_update-->
 
 <!--
